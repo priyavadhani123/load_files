@@ -31,4 +31,7 @@ data-image-src="<?php echo assetsURL()."/images/b-2.jpg"?>">
 	
 </div> <!--search-wraps-->
 
-</div> <!--parallax-container-->
+</div> <!--parallax-container  
+ hi hello am added this linereg6yjiujk6trjynhyy5uretjyt
+
+-->
