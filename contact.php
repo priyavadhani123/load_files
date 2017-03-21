@@ -26,7 +26,7 @@ if (!empty($fields)){
              
              <p><?php echo $contact_content?></p>
                           
-           </div> <!--col-->
+           </div> <!--col this is tesing for github-->
            <div class="col-md-5 black">
            
              <div class="top30"></div>
